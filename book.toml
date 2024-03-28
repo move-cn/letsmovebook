@@ -7,6 +7,7 @@ title = "Let's Move 101"
 
 [output.html]
 mathjax-support = true
+git-repository-url = "https://github.com/move-cn/letsmove-101"
 
 [output.html.playground]
 line-numbers = true
