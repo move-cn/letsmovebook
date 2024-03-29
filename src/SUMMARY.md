@@ -4,18 +4,18 @@
 
 # Sui-Move 环境安装 - Install
 
-- [Windows](./Install/Windows.md)
-- [MacOs](./Install/MacOs.md)
-- [Linux](./Install/Linux.md)
+- [Linux](./Install/01.Linux.md)
+- [MacOs](./Install/02.MacOs.md)
+- [Windows](./Install/03.Windows.md)
 
 # Sui-Move 命令行操作 CLI
 
-- [CLI Start](./CLI/CLI_Start.md)
-- [环境](./CLI/Env.md)
-- [地址](./CLI/Address.md)
-- [Coin的相关操作](./CLI/Coin.md)
-- [导入导出钱包](./CLI/ConnectToWallet.md)
-- [合约相关操作](./CLI/Contract.md)
+- [CLI Start](./CLI/01.CLI_Start.md)
+- [环境](./CLI/02.Env.md)
+- [地址](./CLI/03.Address.md)
+- [Coin的相关操作](./CLI/04.Coin.md)
+- [导入导出钱包](./CLI/05.ConnectToWallet.md)
+- [合约相关操作](./CLI/06.Contract.md)
 
 # Sui-Move 101 基础 Foundation
 
